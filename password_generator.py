@@ -158,3 +158,4 @@ class PasswordGenerator:
 
         shuffle(final_pass)
         return "".join(final_pass)
+#This is a GitHub practice for forked repo
